@@ -98,4 +98,3 @@ automated_reminders/
 
 ---
 
-Would you like me to make this into a **formatted `README.md` file** (with emojis, sections, and badges) that you can directly upload to GitHub?
