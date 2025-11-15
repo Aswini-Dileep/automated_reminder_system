@@ -95,6 +95,15 @@ automated_reminders/
 **Aswini Dileep**
 *Data Science Intern 
 📧 [aswinidileep91@gmail.com](mailto:aswinidileep91@gmail.com)
+**Jaiha Stanly S V**
+*Data Science Intern 
+📧 [jaihastanly018@gmail.com](mailto:jaihastanly018@gmail.com)
+**Nandana Sajju Pillai**
+*Data Science Intern 
+📧 [nandanasajju@gmail.com](mailto:nandanasajju@gmail.com)
+**Shadiya Hamza K P**
+*Data Science Intern 
+📧 [shadiyahamzakp@gmail.com](mailto:shadiyahamzakp@gmail.com)
 
 ---
 
