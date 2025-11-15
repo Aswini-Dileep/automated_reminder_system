@@ -103,7 +103,7 @@ automated_reminders/
 📧 [nandanasajju@gmail.com](mailto:nandanasajju@gmail.com)
 **Shadiya Hamza K P**
 *Data Science Intern 
-📧 [shadiyahamzakp@gmail.com](mailto:shadiyahamzakp@gmail.com)
+📧 [shadiyahamzakp7@gmail.com](mailto:shadiyahamzakp7@gmail.com)
 
 ---
 
